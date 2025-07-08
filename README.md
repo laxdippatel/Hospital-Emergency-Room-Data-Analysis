@@ -16,6 +16,9 @@ The **Hospital Emergency Room Dashboard** aims to provide an analytical view of 
 - Make data-driven decisions for service optimization
 
 ---
+## 📥 Dataset Source: [Kaggle - Hospital Emergency Room Dataset](https://www.kaggle.com/datasets/laxdippatel/hospital-emergency-room-dataset)
+
+  ### Download the Dataset from Kaggle and Import the CSV File into Power BI.
 
 ## ✅ Project Workflow
 
