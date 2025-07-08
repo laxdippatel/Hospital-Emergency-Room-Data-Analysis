@@ -38,7 +38,17 @@ The **Hospital Emergency Room Dashboard** aims to provide an analytical view of 
 
 ![Hospital Emergency Room Dashboard (1)_page-0001](https://github.com/user-attachments/assets/17e5a351-385d-4987-9480-4f01b624286f)
 
+## Consolidated View
 
+![Hospital Emergency Room Dashboard (1)_page-0002](https://github.com/user-attachments/assets/bc7233fa-eed7-494e-80f5-aa6c7e964d95)
+
+## Patient Details
+
+![Hospital Emergency Room Dashboard (1)_page-0003](https://github.com/user-attachments/assets/79fb2113-dbd3-4a00-85aa-cb8a001b7555)
+
+## Key Takeaways
+
+![Hospital Emergency Room Dashboard (1)_page-0004](https://github.com/user-attachments/assets/763075d1-d42d-467f-b837-bd66c1cd1fce)
 
 
 ## 📌 Business Requirements
@@ -138,9 +148,9 @@ A detailed grid/table view with:
 - 🕒 **Time Analysis** helps with resource allocation based on peak hours.
 
 ---
-
+Future enhancements could include real-time data integration, predictive analytics for patient flow, and automated alert systems to further optimize ER operations and decision-making.
 
 ---
-
-## 📂 Folder Structure (Recommended)
-
+## Follow me on : 
+🔗 [LinkedIn : Laxdip Patel](https://www.linkedin.com/in/laxdip-patel/)  
+🐙 [GitHub : laxdippatel](https://github.com/laxdippatel)
